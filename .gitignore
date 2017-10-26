@@ -1,0 +1,12 @@
+./Temp
+./Library
+./obj
+*.userprefs
+*.csproj
+*.sln
+/Library
+/Temp
+/obj
+.idea
+.vs/
+.vscode
